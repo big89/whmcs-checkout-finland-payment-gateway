@@ -1,5 +1,4 @@
-# whmcs-checkout-finland-payment-gateway
-WHMCS Checkout Finland Payment Gateway Module
+# WHMCS Checkout Finland Payment Gateway Module
 
 ## Summary
 
