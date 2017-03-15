@@ -14,4 +14,4 @@ Payment Gateway modules allow you to integrate payment solutions with the WHMCS 
 
 ## Setup
 
-Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose Nexxus Pay from the Available Gateways dropdown.
+Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose Checkout Finland from the Available Gateways dropdown.
