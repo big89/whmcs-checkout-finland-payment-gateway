@@ -1,4 +1,4 @@
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit [http://logicmaker.in](http://logicmaker.in) or email us at : support@logicmaker.in
 
 # WHMCS Checkout Finland Payment Gateway
 
@@ -12,11 +12,15 @@ Accept credit card or bank payments with Checkout. The Checkout.fi extension for
 
 With Checkout you don’t need contracts directly and separately with every bank – you get them all with one contract! This plugin works by redirecting the client to the gateway hosted page to choose payment method that they wants.
 
-Why Choose Checkout?
+## Why Choose Checkout?
 
     Accept credit card and bank account payments through your site
     Avoid security concerns since payments are processed through Checkout
     Accept Visa®, MasterCard®, bank payments, and more
+    
+## Secure Payment Processing
+
+During the WHMCS checkout, customer is then directed off-site to make their payment through Checkout’s secure servers, and then is redirected back to your site. This allows you to accept multiple forms of payment and with several banks all in one easy, secure checkout integration.
 
 ## Installtion Steps
 
@@ -28,4 +32,4 @@ Why Choose Checkout?
 Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose Checkout Finland from the Available Gateways dropdown.
 
 
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit [http://logicmaker.in](http://logicmaker.in) or email us at : support@logicmaker.in
